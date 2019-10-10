@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="nameerror">Enter Valid Name</string>
+
+    <string name="passworderror">Enter Some Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
